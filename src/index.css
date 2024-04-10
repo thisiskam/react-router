@@ -21,7 +21,7 @@ body > div {
 }
 
 .nav-img {
-  background: transparent url(/src/assets/—Pngtree—creative\ company\ logo_1197025.png) no-repeat center;
+  background: transparent url() no-repeat center;
   width: 70px;
   height: 70px;
   background-size: cover;
